@@ -4,9 +4,6 @@
 ```markdown
 3axbat, (use pip install 3axbat)
 
-# 3axbat
-Python PyPI License Status
-
 
 Неофициальная, высокооптимизированная Python-обертка для API Blockman Go. 
 
