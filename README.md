@@ -5,6 +5,7 @@
 3axbat, (use pip install 3axbat)
 
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg) ![PyPI](https://img.shields.io/pypi/v/3axbat.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Status](https://img.shields.io/badge/status-active--development-orange.svg)
 
 Неофициальная, высокооптимизированная Python-обертка для API Blockman Go. 
 
