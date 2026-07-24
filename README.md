@@ -2,9 +2,9 @@
 ***
 
 ```markdown
-# 3axbat
+3axbat, (use pip install 3axbat)
 
-![PyPI](https://img.shields.io/pypi/v/3axbat.svg)
+
 
 Неофициальная, высокооптимизированная Python-обертка для API Blockman Go. 
 
