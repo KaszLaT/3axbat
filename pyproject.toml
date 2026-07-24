@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "3axbat"
+version = "1.0.0"
+description = "Api exploit of bmg"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+authors = [
+    { name = "KaszLaT" }
+]
+keywords = ["blockman", "blockmango", "api", "wrapper", "game"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "requests>=2.28.0",
+    "urllib3>=1.26.0",
+    "pycryptodome>=3.15.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/KaszLaT/3axbat"
+Repository = "https://github.com/KaszLaT/3axbat"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["axbat*"]
