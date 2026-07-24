@@ -4,14 +4,9 @@
 ```markdown
 3axbat, (use pip install 3axbat)
 
+# 3axbat
+Python PyPI License Status
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python">
-  <img src="https://img.shields.io/pypi/v/3axbat.svg" alt="PyPI">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/status-active--development-orange.svg" alt="Status">
-</p>
-)
 
 Неофициальная, высокооптимизированная Python-обертка для API Blockman Go. 
 
